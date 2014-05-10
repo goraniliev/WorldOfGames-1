@@ -141,5 +141,5 @@
 
 ##**4. Изработиле и лиценца**##
 ####**<a href="https://github.com/MTrajK" target="_blank">Мето Трајковски 121047</a>**####
-####**<a href="https://github.com/goraniliev" target="_blank">Goran Iliev</a>**####
+####**<a href="https://github.com/goraniliev" target="_blank">Горан Илиев 121</a>**####
 Copyright &copy; 2014. MIT лиценца, види ***<a href="LICENSE.md" target="_blank">LICENSE.md</a>*** за повеќе детали.
