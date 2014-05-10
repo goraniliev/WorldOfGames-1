@@ -1,6 +1,6 @@
 #The MIT License (MIT)#
 
-###Copyright &copy; 2014 <a href="https://github.com/MTrajK" target="_blank">Meto Trajkovski</a> & Goran Iliev###
+###Copyright &copy; 2014 <a href="https://github.com/MTrajK" target="_blank">Meto Trajkovski</a> & <a href="https://github.com/goraniliev" target="_blank">Goran Iliev</a>###
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
