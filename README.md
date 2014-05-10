@@ -148,6 +148,6 @@
 
 
 ##**4. Изработиле и лиценца**##
-###**<a href="https://github.com/MTrajK" target="_blank">Мето Трајковски</a>**###
-###**Goran Iliev**###
-###**<a href="LICENSE.md" target="_blank">Лиценца</a>**###
+####**<a href="https://github.com/MTrajK" target="_blank">Мето Трајковски 121047</a>**####
+####**Goran Iliev**####
+###**<a href="LICENSE.md" target="_blank">MIT лиценца</a>**###
